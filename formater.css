@@ -1,0 +1,94 @@
+/*floating tabs*/
+.FTname{
+	margin:auto;
+	height:20%;
+	width:20%;
+	position:sticky;
+	Background-color:#538875;
+	text-align:center;
+	bottom:80%;
+	border:1px black solid;
+	border-radius:5px;
+	
+	}
+		.name{
+			color:white;
+		}
+		
+.FTimage{
+	position:relative;
+	width:100%;
+	height:35%;
+	bottom:20%;
+	z-index:2;
+		.FTItext{
+			
+		}
+}
+.FTtext{
+	position:sticky;
+	bottom:20%;
+	width:100%;
+	height:20%;
+	background-color:#538875;
+	border:1px black solid;
+	border-radius:10px;
+	color:white;
+}
+/*images*/
+.bg-img-almonds{
+	width:100%;
+	height:200%;
+	position:relative;
+	top:0%;
+}
+		.myphoto{
+			position:absolute;
+			top:60px;
+			left:60px;
+		}
+}
+.bg-img-lily{
+	
+	width:100%;
+	height:50%;
+	
+}
+/*Questionnare*/
+.qbox{
+
+	width :40%;
+	height :200%;
+	background-color:white;
+	padding:20px;
+	border:1px black solid;
+	margin:auto;
+	text-align:center;
+}
+ 
+ .toptext{
+	 text-align:center;
+	 color:white;
+ }
+ .toptext2{
+	 text-align:center;
+	 color:white;
+ }
+.list{
+	text-align: left;
+	list-style: none;
+}
+	input {
+  width: 50%;
+  height:20px;
+  text-align:center;
+}
+.linktoq{
+	 width:100%;
+	 height:200;
+	 background-color:#83ACAF;
+	 color:white;
+	 text-align:center;
+ }
+
+

@@ -1,0 +1,87 @@
+/*this is for images*/
+.i1{
+	position:static;
+	width:100%;
+	height:100%;
+
+}
+.i2{
+	position:sticky;
+	width:100%;
+	height:10%;
+}
+/*this is for floating tabs*/
+.ft1{
+	position:sticky;
+	bottom:30%;
+	margin-left:43%;
+}
+.ft2{
+	position:sticky;
+	bottom:20%;
+	width:100%;
+	height:50px;
+}
+.ft3{
+	position:sticky;
+	bottom:20%;
+}
+/*this is for text formatting*/
+.h2{
+	text-align:center;
+	width:30%;
+	height:30%;
+	background-color: #6495ed;
+	padding:10px;
+	color:white;
+	
+}
+ .t1{
+	 width:100%;
+	 height:200;
+	 background-color:white;
+	 color:black;
+	 text-align:center;
+ }
+ 
+ 
+/*
+THIS FOR THE QUESTIONNAIRE
+*/
+.qbox{
+
+	width :40%;
+	height :200%;
+	background-color:white;
+	padding:20px;
+	border:1px black solid;
+	margin:auto;
+	text-align:center;
+}
+ 
+ .toptext{
+	 text-align:center;
+	 color:white;
+ }
+ .toptext2{
+	 text-align:center;
+	 color:white;
+ }
+.list{
+	text-align: left;
+	list-style: none;
+}
+	input {
+  width: 50%;
+  height:20px;
+  text-align:center;
+}
+.linktoq{
+	 width:100%;
+	 height:200;
+	 background-color:#83ACAF;
+	 color:white;
+	 text-align:center;
+ }
+
+

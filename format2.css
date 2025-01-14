@@ -1,0 +1,42 @@
+p.a{
+	color:green;
+	text-decoration:underline;
+	text-decoration-style: wavy;
+	text-decoration-color:yellow;
+	text-indent:50px;
+	margin-top:50px;
+}
+p.b{
+	color:red;
+	text-decoration:underline;
+	text-decoration-style: dashed;
+	text-decoration-color:blue;
+	text-indent:150px;
+	margin-top:50px;
+}
+p.c{
+	color:gray;
+	text-decoration:underline;
+	text-decoration-style: double;
+	text-decoration-color:violet;
+	text-indent:270px;
+	margin-top:50px;
+}
+div.z {
+	color:blue;
+	text-indent:50px;
+}
+p.myP{
+	color:purple;
+	background-color:lightgreen;
+}
+/*this is for google link*/
+a:link{color:blue;}
+a:hover{color:green;}
+a:active{color:red}
+a:visited{color:yellow;}
+#a{
+	color:orange;
+	text-align: center;
+	background-image: url("laughing-cat.gif")
+}

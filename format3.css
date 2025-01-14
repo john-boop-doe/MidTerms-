@@ -1,0 +1,11 @@
+table, th, td {
+  border: 1px solid black;
+  border-color:#CD5C5C;
+}
+.tr1{
+	color:white;
+	background-color:#CD5C5C;
+}
+.td2{
+	color:#CD5C5C;
+}
